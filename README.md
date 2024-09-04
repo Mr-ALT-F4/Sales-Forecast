@@ -24,6 +24,7 @@ cd sales-forecaster
 ```
 ### 2. Create and Activate a Virtual Environment (Optional but Recommended)
 It's a good practice to use a virtual environment to manage your project dependencies. You can create and activate one using the following commands:
+
 for windows :-
 ```bash
 python -m venv venv
