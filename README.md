@@ -66,4 +66,4 @@ When you're done working with the project, you can deactivate the virtual enviro
 deactivate
 ```
 ## Contributing
-Contributions are welcome! Please check out the CONTRIBUTING.md for guidelines on how to contribute to the project.
+Contributions are welcome!
